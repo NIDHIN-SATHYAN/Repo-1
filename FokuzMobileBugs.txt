@@ -1,0 +1,59 @@
+1. On Sign Up process, "Back" action does not work when user opens "Terms and Conditions" tab. (Functionality)
+2. App is prompting to provide location access all the time. Android 10 has "Give location only while in use" option. It is not working here. Users will be frustrated if a video conferencing app demands location access 
+at all times (Functionality)
+3. When user types the name, Capital letter can come after a space. eg : Nidhin S (now it is Nidhin s by default typing). - Usability
+4. When location is not turned off, app gives a pop up to turn on location. If the user goes to the location page and then clicks back button(top left), it will not redirect to the app. (Functionality)
+5. Pop up text for accepting terms and conditions can be changed to "Please accept our Terms and Conditions" (Cosmetic)
+6. If user just switches to another application and comes to "Fokuz", the app starts all over again. Issue is on sign up screen.
+7. On Sign up form, when cursor is on Password field, the last ey on the keypad shows "Next" button. Instead a "Tick"button should be shown, when user clicks that, the keypad is closed and Submit button is 
+visible. (Usability) - Common Issue. Can be integrated on all forms.
+8. The verification email subject for Fokuz shows "***SPAM****". It should beremoved. (Usability)
+9. If user has dark theme for the device, the Fokuz logo on the image will become unreadable. I dont know if there is any walkaround for this issue (Cosmetic).
+10. If user entered an Invalid OTP, the fields can be cleared. (Suggestion)
+11. A crop feature can be implemented while uploading your profile image.
+12. Overall more friendly success messages can be used. Messages like "Image addedd successfully" does not make the user like Fokuz application.
+13. On Sign up form, the click area for the Terms and Condition checkbox can be improved on the texts as well. (Usability)
+14. There should be a feature to view users profile picture bigger.
+15. On Edit Profile pop up, if user enters an invalid mob no, the pop up gets closed. Then user again has to open the pop up for correction.
+16. On Edit profile pop up, if user enters an invalid mobile number,the error message is shown, but the invalid value is not cleared. It should be cleared.
+17. On Edit profile pop up, the number keypad should be shown when user clicks on Mobile number field.
+18. Capitalization error on "About Fokuz App" page. (Cosmetic). Also on the same page, better spacing can be provided for app version.
+19. When a user sign out of the app message should be "Signed out successfully".
+20. The "Sign in Failed" pop up can be designed better. Text on the top can be given more highlight. (Cosmetic)
+21. If an existing user Sign in and check his profile page, the profile image is shown blank even if he/she has already put a profile image. A loader is suggested.
+22. Clicking the back button on Forgot password page goes to the landing page. Instead it should go to Sign in page. (Suggestion). Further it is suggested to show a link "Login" on Forgot Password page just below
+email id field to jump to Login page. (Usability)
+23. The time to receive Reset password mail can be reduced (Performance)
+24. On Forgot Password OTP entering page, if user enters the correct OTP, then make the field uneditable. Now even after verifying the OTP, user can edit the OTP. (Suggestion)
+25. In the future, it is suggested to manage multiple accounts at the same time. 1 for work and 1 for other. User can switch accounts on Profile page.
+26. Different colours can be used for "About Fokuz App" and "Sign Out" for better aesthetic appeal.
+27.  If a user tries to schedule a meeting with time overlapped, the app shows conflict message but, the meeting will be set on calendar. (Base Functionality)
+28. When user copies the meeting ID or paassword, the message should be "Copied to clipboard" (Cosmetic)
+29. When a meeting is scheduled , it is shown on Google Calendar as a Birthday entry. (Base Functionality)
+30. When a meeting is rescheduled, the existing entry on Google Calendar is not deleted. So 2 entries willbe shown on Google calendar for a resheduled meeting. (Base Functionality)
+31. On scheduled Meeting Details page, if a meeting name is lengthy, a scroll option should be present. Right now, the overflowed texts are not visible to the user. (Usability)
+32. On Scheduled Meetings list, a better design can be integrated. Each meeting should have a border. (Card like display) - Cosmetic.
+33. On Scheduled Meeting List, more fields can be shown. eg copy meeting ID button, share button.
+34. In app notifications can also be provided for reminding a user about scheduled meetings.
+35. On Dashboard, scheduled meeting count can be shown. Also drop down filters are suggested. (Usability)
+36. There is no chatroom option on the app. So is a set of users want to call each other at a specific time, it is not possible. eg: Our TMCS project team daily stand up meetings cannot be scheduled here.
+37. Meetings get completed automatically after the scheduled time gets past. Instead such meetings should be still shown in Scheduled but a status can be shown, like "Past Due Time". (Functionality) 
+38. When we open the chat screen, the back button on bottom side is not shown.
+39. On Meeting Details page, Meeting ID should be shown.
+40. It is posible to join a completed meeting (Functionality) 
+41. There are no filters on Meeting list pages. (Functionality) 
+42. When user tries to join a meeting with a meeting ID,  the pop up shows a different meeting ID.(Functionality)
+43. There should be a record feature.(Functionality)
+44. Users should be able to see the notes they have made on the meetings. (Functionality)
+45. While showing meeting details page, on the participants section, the start time and duration of the participants can be shown for better usability. If the meeting has 15 members, admin has to go to each member
+separatley to see their conferenc time. (Functionality and Usability)
+46. On the chat screen , mentioning of chats feature will be more usable.
+47. Clicking the FOKUZ icon on top can redirect to dashboard. (Suggestion)
+
+
+
+Completed Meeting ID - 408147925348. This can be used again on Join Meeting.
+
+https://play.google.com/apps/publish/?account=5598091959338380799#ReviewsPlace:p=com.skyislimit.fokuz&appid=4973696160546015558
+fokuz.online@gmail.com
+Fokuz@5433
